@@ -21,4 +21,10 @@
         app:textSize="78sp"
         app:hasText="true"/>
 ```
-
+|textSize|字体大小|
+|textColor|字体颜色|
+|hasText|是否有百分比文字|
+|progressColor|进度条颜色|
+|progressWeight|进度条宽度|
+|progressMax|最大进度|
+|progressCur|当前进度|
