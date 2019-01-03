@@ -21,6 +21,8 @@
         app:textSize="78sp"
         app:hasText="true"/>
 ```
+
+
 textSize|字体大小
 textColor|字体颜色
 hasText|是否有百分比文字
