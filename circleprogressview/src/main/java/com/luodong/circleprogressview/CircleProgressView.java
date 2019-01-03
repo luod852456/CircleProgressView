@@ -13,7 +13,7 @@ import android.view.View;
 /**
  * @author luodong
  * @date 2019/1/3 16:11
- * @describe
+ * @describe 圆形进度view
  */
 public class CircleProgressView extends View {
     private int mWidth;
