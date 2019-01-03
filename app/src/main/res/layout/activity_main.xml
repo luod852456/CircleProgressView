@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.luodong.circleprogressview.CircleProgressView
+        android:id="@+id/v_cpv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:progressColor="@android:color/holo_red_light"
+        app:progressCur="78"
+        app:progressMax="100"
+        app:progressWeight="15dp"
+        app:textColor="@android:color/holo_red_light"
+        app:textSize="78sp"
+        app:hasText="true"/>
+
+
+</LinearLayout>
