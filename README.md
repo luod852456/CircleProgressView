@@ -33,4 +33,4 @@
 |progressCur|integer|
 
 # 使用方法
-setProgress(int cur, int total);//设置进度
+    setProgress(int cur, int total);//设置进度
